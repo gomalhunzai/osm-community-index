@@ -1,0 +1,11 @@
+{
+  "id": "pk-linkedin",
+  "type": "linkedin",
+  "account": "osm-pakistan",
+  "locationSet": {"include": ["pk"]},
+  "languageCodes": ["en", "ur"],
+  "strings": {
+    "community": "OpenStreetMap Pakistan",
+    "communityID": "openstreetmappakistan"
+  }
+}
